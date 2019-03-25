@@ -1,0 +1,7 @@
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\bin\Debug\KilicOyunu.exe.config
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\bin\Debug\KilicOyunu.exe
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\bin\Debug\KilicOyunu.pdb
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\obj\Debug\KilicOyunu.csprojAssemblyReference.cache
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\obj\Debug\KilicOyunu.csproj.CoreCompileInputs.cache
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\obj\Debug\KilicOyunu.exe
+C:\Users\#TSHB#\Desktop\C# Projeleri\KilicOyunu\KilicOyunu\obj\Debug\KilicOyunu.pdb
